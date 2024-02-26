@@ -15,8 +15,8 @@ Once a user has connected an app, their data may be accessed by that app using t
 |--------|-------------|-----|---|---|
 | Android | >= 11.19 | :white_check_mark: | Mar 15 2021 | |
 | iOS | >= 11.19 | :white_check_mark: | Mar 15 2021 |  |
-| iOS | 11.17 | :warning: | Mar 1 2021 | Connected Apps screen not available |
-| iOS | 11.15 | :warning: | Feb 17 2021 | Connected Apps screen not available |
+| iOS | 11.17 | :warning: | Mar 1 2021 | Connected Apps screen  available |
+| iOS | 11.15 | :warning: | Feb 17 2021 | Connected Apps screen available |
 
 ## Configuring Your App
 Developers must have a Snapchat account and register in the Snap Kit Developer portal.
